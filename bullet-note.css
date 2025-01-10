@@ -1,0 +1,10 @@
+.HyperMD-list-line-1.HyperMD-list-line-nobullet {
+    line-height: calc(var(--line-height-normal) * 0.6);
+}
+
+.HyperMD-list-line-nobullet .cm-list-1,
+.HyperMD-list-line-nobullet .cm-list-2,
+.HyperMD-list-line-nobullet .cm-list-3 {
+    color: gray;
+    font-size: calc(var(--font-text-size) * 0.8);
+}
